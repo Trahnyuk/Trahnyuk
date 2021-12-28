@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trahnyuk
+- 👋 Hi, I’m @Peter Trahnyuk
 - 👀 I’m interested in Front-end Web Development 
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on my first project to portfolio.
