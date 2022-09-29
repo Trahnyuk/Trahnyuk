@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Web Development & API Dev
 - 🌱 I’m currently working with HTML, CSS, JS, XML and liiiitle bit with Java
 - 📫 How to reach me - just contact me at Gmail --> peter.trahnyuk@gmail.com
-- 🖖 Language abilities: English, Czech, Ukrainian, Russian, little bit Slovakian & Germany languages
+- 🖖 Language abilities: English, Czech, Ukrainian, russian, little bit Slovakian & Germany languages
 
 <!---
 Trahnyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
